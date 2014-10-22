@@ -4,13 +4,23 @@
   border: 1px black solid;
 }
 
-.stars {
-  color: white;
+.blue {
   background-color: #1a0dab;
-  line-height: 0.9;
   width: 380px;
   height: 269.25px;
   float: left;
+}
+
+.stars {
+  padding-top: 6px;
+  color: white;
+  font-size: 35px;
+  line-height: 0.40;
+  text-align: center;
+}
+
+p {
+  margin: 13px 13px;
 }
 
 .1st-set-of-strips {
