@@ -23,14 +23,6 @@ p {
   margin: 13px 13px;
 }
 
-.1st-set-of-strips {
-  float: right;
-}
-
-.2nd-set-of-strips {
-  clear: both;
-}
-
 .red {
   background-color: red;
   width: 100%;
